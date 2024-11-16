@@ -15,8 +15,8 @@
 - 🛠 Git and GitHub
 
 ## Projects
-- [web design for blood donation assocation] .#https://github.com/dadicharan/Blood-Donation-web-page
-- [Simple Calculator](#) 
+- [web design for blood donation assocation] .(#)https://github.com/dadicharan/Blood-Donation-web-page
+- [Simple Calculator](#)https://github.com/dadicharan/simple-calculator 
 
 ## Let's Connect!
 - 📧 Email: [dadicharan102@gmail.com](mailto:dadicharan102@gmail.com)
