@@ -1,4 +1,8 @@
 # Welcome to My GitHub Profile! 👋
+# 👋 Hi, I'm Charan Dadi!
+
+## Education
+- 🎓 B-Tech student at Raghu Institution of Technology
 
 ## About Me
 - 🌱 I’m learning GitHub and coding.
