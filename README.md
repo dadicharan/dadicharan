@@ -26,6 +26,7 @@
 - [Simple Calculator] (#)https://github.com/dadicharan/simple-calculator
 - [Memory game]. (#)https://github.com/dadicharan/Memory-game
 - [My portfolio]. (#)https://github.com/dadicharan/My-Portfolio
+- [Bike_sharing_prediction]. (#)https://github.com/dadicharan/Bike_Sharing_Predictions-
   
 ## Let's Connect!
 - 📧 Email: [dadicharan102@gmail.com](mailto:dadicharan102@gmail.com)
