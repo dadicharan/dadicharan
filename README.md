@@ -27,6 +27,7 @@
 - [Memory game]. (#)https://github.com/dadicharan/Memory-game
 - [My portfolio]. (#)https://github.com/dadicharan/My-Portfolio
 - [Bike_sharing_prediction]. (#)https://github.com/dadicharan/Bike_Sharing_Predictions-
+- [Digital_clock].(#)https://github.com/dadicharan/Digital-clock
   
 ## Let's Connect!
 - 📧 Email: [dadicharan102@gmail.com](mailto:dadicharan102@gmail.com)
