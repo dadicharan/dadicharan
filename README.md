@@ -1,6 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 # 👋 Hi, I'm Charan Dadi!
 
+Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, and SQL | Passionate about building interactive web applications and exploring innovative technologies in web development.
+
+
 ## Education
 - 🎓 B-Tech student at Raghu Institution of Technology
 
