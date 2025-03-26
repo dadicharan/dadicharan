@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 # 👋 Hi, I'm Charan Dadi!
 
-Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, and SQL | Passionate about building interactive web applications and exploring innovative technologies in web development.
+Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, SQL, AI-ML | Passionate about building interactive web applications and exploring innovative technologies in web development.
 
 
 ## Education
@@ -17,7 +17,7 @@ Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, and SQL | Pass
 - Learn more about web development and automation.
 
 ## Skills
-- 🌐 HTML, CSS, JavaScript
+- 🌐 HTML, CSS, JavaScript,Artifical Intelligence and Machine Learning
 - 🐍 Python
 - 🛠 Git and GitHub
 
@@ -31,6 +31,7 @@ Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, and SQL | Pass
 - [My portfolio]. (#)https://github.com/dadicharan/My-Portfolio
 - [Bike_sharing_prediction]. (#)https://github.com/dadicharan/Bike_Sharing_Predictions-
 - [Digital_clock].(#)https://github.com/dadicharan/Digital-clock
+- [Resume_Analyzer].(#)https://github.com/dadicharan/resume-analyzer
   
 ## Let's Connect!
 - 📧 Email: [dadicharan102@gmail.com](mailto:dadicharan102@gmail.com)
