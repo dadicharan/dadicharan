@@ -32,6 +32,7 @@ Front-End Developer | Skilled in HTML, CSS, JavaScript, React.js, SQL, AI-ML | P
 - [Bike_sharing_prediction]. (#)https://github.com/dadicharan/Bike_Sharing_Predictions-
 - [Digital_clock].(#)https://github.com/dadicharan/Digital-clock
 - [Resume_Analyzer].(#)https://github.com/dadicharan/resume-analyzer
+- [Log_Analyzer].(#)https://github.com/dadicharan/Log-Analyzer
   
 ## Let's Connect!
 - 📧 Email: [dadicharan102@gmail.com](mailto:dadicharan102@gmail.com)
