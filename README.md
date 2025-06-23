@@ -23,7 +23,8 @@ Passionate about **building interactive web applications**, optimizing performan
 
 ## 🎯 **My Current Goals**
 🚀 Build and upload **high-quality projects** to GitHub  
-🚀 Contribute to **open-source projects** and **collaborate** with developers  
+🚀 Contribute to **open-source projects** and **collaborate** with developers 
+🚀 Build advanced **full-stack and AI-based** projects
 
 ---
 
@@ -36,14 +37,42 @@ Passionate about **building interactive web applications**, optimizing performan
 ---
 
 ## 📂 **Projects**
-🔹 [Web Design for Blood Donation Association](https://github.com/dadicharan/Blood-Donation-web-page)  
-🔹 [Simple Calculator](https://github.com/dadicharan/simple-calculator)  
-🔹 [Memory Game](https://github.com/dadicharan/Memory-game)  
-🔹 [My Portfolio](https://github.com/dadicharan/My-Portfolio)  
-🔹 [Bike Sharing Prediction](https://github.com/dadicharan/Bike_Sharing_Predictions-)  
-🔹 [Digital Clock](https://github.com/dadicharan/Digital-clock)  
-🔹 [Resume Analyzer](https://github.com/dadicharan/resume-analyzer)  
-🔹 [Log Analyzer](https://github.com/dadicharan/Log-Analyzer)  
+
+A collection of my web-dev and AI-powered projects:
+
+### 🔹 Web & Front-End
+- **[My Portfolio](https://github.com/dadicharan/My-Portfolio)** – A personal website showcasing my skills, projects, and contact info.
+- **[Blood-Donation Web Page](https://github.com/dadicharan/Blood-Donation-web-page)** – Responsive site to support blood donors and donors-to-be.
+- **[Digital Clock](https://github.com/dadicharan/Digital-clock)** – A modern clock with automated theme switching via JavaScript.
+- **[Memory Game](https://github.com/dadicharan/Memory-game)** – Fun memory-matching game built with HTML, CSS & JS.
+- **[Simple Calculator](https://github.com/dadicharan/simple-calculator)** – Python-based console calculator for basic arithmetic.
+- **[Quiz Game](https://github.com/dadicharan/Quiz_game-)** – A beginner-friendly quiz built using HTML, CSS, and JavaScript.
+
+### 🧠 AI, Data Science & ML
+- **[Resume Analyzer](https://github.com/dadicharan/resume-analyzer)** – LLM-powered reviewer with NLP techniques for feedback and scoring.
+- **[Log Analyzer](https://github.com/dadicharan/Log-Analyzer)** – Cyber‑attack detection from logs using DeepSeek R1 (built during NTRO internship).
+- **[Bike Sharing Prediction](https://github.com/dadicharan/Bike_Sharing_Predictions-)** – Predicts bike demand using ML regression modeling.
+
+---
+
+
+**💼 Internship Experience**
+**NTRO – AI & Data Science Internship**
+
+Developed log analysis models using LLMs and Hugging Face for cybersecurity
+
+**1Stop.ai – Machine Learning Internship**
+
+Worked on diabetes prediction, demand forecasting, and order prediction models
+
+**Microsoft-KSI – ML Internship**
+
+Built car price prediction models using advanced ML techniques
+
+**J2EE Full Stack Internship**
+
+Created a real-time chat application using Java, JSP, JDBC, and AJAX
+
 
 ---
 
