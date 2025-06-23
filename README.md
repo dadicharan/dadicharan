@@ -57,19 +57,21 @@ A collection of my web-dev and AI-powered projects:
 
 
 **💼 Internship Experience**
-**NTRO – AI & Data Science Internship**
+
+
+-**NTRO – AI & Data Science Internship**
 
 Developed log analysis models using LLMs and Hugging Face for cybersecurity
 
-**1Stop.ai – Machine Learning Internship**
+-**1Stop.ai – Machine Learning Internship**
 
 Worked on diabetes prediction, demand forecasting, and order prediction models
 
-**Microsoft-KSI – ML Internship**
+-**Microsoft-KSI – ML Internship**
 
 Built car price prediction models using advanced ML techniques
 
-**J2EE Full Stack Internship**
+-**J2EE Full Stack Internship**
 
 Created a real-time chat application using Java, JSP, JDBC, and AJAX
 
