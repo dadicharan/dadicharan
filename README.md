@@ -47,7 +47,7 @@ A collection of my web-dev and AI-powered projects:
 
 ### 🔹 Web & Front-End
 
-* **[My Portfolio](https://github.com/dadicharan/My-Portfolio)** – A personal website showcasing my skills, projects, and contact info.
+* **[My Portfolio](https://my-portfolio-chi-indol-98.vercel.app/)** – A personal website showcasing my skills, projects, and contact info.
 * **[Blood-Donation Web Page](https://github.com/dadicharan/Blood-Donation-web-page)** – Responsive site to support blood donors and donors-to-be.
 * **[Digital Clock](https://github.com/dadicharan/Digital-clock)** – A modern clock with automated theme switching via JavaScript.
 * **[Memory Game](https://github.com/dadicharan/Memory-game)** – Fun memory-matching game built with HTML, CSS & JS.
@@ -81,7 +81,7 @@ Created a real-time chat application using Java, JSP, JDBC, and AJAX.
 
 ## 🌐 **My Portfolio**
 
-🔗 **Check out my work**: [My Portfolio](https://github.com/dadicharan/My-Portfolio)
+🔗 **Check out my work**: [My Portfolio](https://my-portfolio-chi-indol-98.vercel.app/)
 
 ---
 
